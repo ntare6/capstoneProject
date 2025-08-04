@@ -21,12 +21,16 @@ This project aims to analyze and predict airline passenger satisfaction based on
 4. **Dashboard:** Interactive visualizations built in Power BI
 
 ## 📁 Included Files
+- `.ipynb_checkpoints`
+- `Screenshots`
 - `airline.ipynb` – Python code (cleaning, EDA, modeling)
+- `README.md`
+- `airlineDashboardupdated.pbix`  – Power BI dashboard
+- `airline_passenger_satisfaction.csv` -Raw data
 - `cleaned_airline_data.csv` – Final dataset for Power BI
-- `airlineDashboard.pbix` – Power BI dashboard
 - `data_dictionnary.csv` – dictionnary about the datasets
+- 
 
-- `screenshots/` – screenshots related to different steps
 
 ## ✅ Result Highlights
 - Accurate prediction model for satisfaction
