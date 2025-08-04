@@ -27,6 +27,7 @@ This project aims to analyze and predict airline passenger satisfaction based on
 - `README.md`
 - `airlineDashboardupdated.pbix`  – Power BI dashboard
 - `airline_passenger_satisfaction.csv` -Raw data
+- `airline_project_codes.zip`-codes related to steps taken
 - `cleaned_airline_data.csv` – Final dataset for Power BI
 - `data_dictionnary.csv` – dictionnary about the datasets
 - 
